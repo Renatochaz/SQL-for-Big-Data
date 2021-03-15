@@ -4,8 +4,6 @@ This repository builds on the content available at the course of Big Data with M
 
 If you want a more in depth explanation of everything explained at this repository, please go to [Link to course](https://www.coursera.org/learn/analytics-mysql).
 
-
-
 The exercises interact with real business databases with millions of data points, feel free to study then to understand how to interact and retrieve data.
 
 
@@ -16,19 +14,30 @@ All exercises from the course are licensed by NC 4.0 and are authored for Jana S
 
 **Note that the exercises interact with a private database and can't be interacted from github/your local computer. They are here for a understanding of the SQL syntax only.**
 
-# Content
-
-- [Design Tools](https://github.com/Renatochaz/SQL-for-big-data/blob/master/design_tools.ipynb)
-
-  > Entity Relationship Diagrams
-  >
-  > Relational Schema
-  
-- [Query Sintax](https://github.com/Renatochaz/SQL-for-big-data/blob/master/query_syntax.ipynb)
-
-  > Explanation of Data Query Language
-  
+# Exercise Content
 
 - [MySQL_Exercises](https://github.com/Renatochaz/SQL-for-big-data/blob/master/MySQL_exercises)
 
-  > 01 - Basic SELECT use
+  > 01 - Looking at MySQL data with SELECT
+  >
+  > 02 - Subsetting data with WHERE
+  >
+  > 03 - Formatting data output with AS, DISTINCT and ORDER BY
+  >
+  > 04 - Summarizing data with built-in function
+  >
+  > 05 - Breaking summaries into groups of data
+  >
+  > 06 - Common pitfalls of GROUP BY
+  >
+  > 07 - Working with INNER JOIN
+  >
+  > 08 - Working with OUTER JOINS
+  >
+  > 09 - Structuring subqueries and derived tables
+  >
+  > 10 - Working with logical functions
+  >
+  > 11 - Applied queries to test relationships between variables
+  >
+  > 12 - Extended relationship tests with advanced queries
